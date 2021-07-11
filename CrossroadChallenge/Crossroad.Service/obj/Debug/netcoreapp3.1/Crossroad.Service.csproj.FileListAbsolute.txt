@@ -1,0 +1,8 @@
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\bin\Debug\netcoreapp3.1\Crossroad.Service.deps.json
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\bin\Debug\netcoreapp3.1\Crossroad.Service.dll
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\bin\Debug\netcoreapp3.1\Crossroad.Service.pdb
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\obj\Debug\netcoreapp3.1\Crossroad.Service.AssemblyInfoInputs.cache
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\obj\Debug\netcoreapp3.1\Crossroad.Service.AssemblyInfo.cs
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\obj\Debug\netcoreapp3.1\Crossroad.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\obj\Debug\netcoreapp3.1\Crossroad.Service.dll
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.Service\obj\Debug\netcoreapp3.1\Crossroad.Service.pdb

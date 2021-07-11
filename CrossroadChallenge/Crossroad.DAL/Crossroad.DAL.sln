@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crossroad.DAL", "Crossroad.DAL.csproj", "{796A90E9-C559-47C1-BBDF-92703CFDCB31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossroadApp", "..\CrossroadApp\CrossroadApp.csproj", "{388A71C7-6655-46C4-A4D1-ADC65974E177}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crossroad.Repository", "..\Crossroad.Repository\Crossroad.Repository.csproj", "{05E2F0F6-1AD1-4C78-AD2F-47690A658E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796A90E9-C559-47C1-BBDF-92703CFDCB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796A90E9-C559-47C1-BBDF-92703CFDCB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796A90E9-C559-47C1-BBDF-92703CFDCB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796A90E9-C559-47C1-BBDF-92703CFDCB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388A71C7-6655-46C4-A4D1-ADC65974E177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388A71C7-6655-46C4-A4D1-ADC65974E177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388A71C7-6655-46C4-A4D1-ADC65974E177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388A71C7-6655-46C4-A4D1-ADC65974E177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E2F0F6-1AD1-4C78-AD2F-47690A658E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E2F0F6-1AD1-4C78-AD2F-47690A658E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E2F0F6-1AD1-4C78-AD2F-47690A658E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E2F0F6-1AD1-4C78-AD2F-47690A658E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58675F6-E5AF-4A43-B31B-468F1653CBDB}
+	EndGlobalSection
+EndGlobal

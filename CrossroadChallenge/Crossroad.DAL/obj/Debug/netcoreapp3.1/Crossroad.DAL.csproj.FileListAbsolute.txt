@@ -1,0 +1,12 @@
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\bin\Debug\netcoreapp3.1\Crossroad.DAL.deps.json
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\bin\Debug\netcoreapp3.1\Crossroad.DAL.runtimeconfig.json
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\bin\Debug\netcoreapp3.1\Crossroad.DAL.runtimeconfig.dev.json
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\bin\Debug\netcoreapp3.1\Crossroad.DAL.dll
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\bin\Debug\netcoreapp3.1\Crossroad.DAL.pdb
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.AssemblyInfoInputs.cache
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.AssemblyInfo.cs
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.dll
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.pdb
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.genruntimeconfig.cache
+C:\Users\Gelat\Desktop\Pain\WarnerMedia\CrossroadChallenge\Crossroad.DAL\obj\Debug\netcoreapp3.1\Crossroad.DAL.csproj.AssemblyReference.cache

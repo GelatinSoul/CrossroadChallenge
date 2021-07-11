@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Crossroad.DAL\Crossroad.DAL.csproj" />
+    <ProjectReference Include="..\Crossroad.Repository\Crossroad.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
