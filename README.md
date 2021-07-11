@@ -1,6 +1,8 @@
 Launch the ASP.NET project first, and then the React one in Visual Studios. You may need to check your connection string in appsettings.json.
+  To begin, click on the run IIS button near the top
 
 In the React Project, you might have to change the URL that performs the Get request so that it's the same as the one from the ASP.NET Project.
+  To begin just run "npm start" in the terminal
 
 The settings are to not display any web page, so you might have to look in Debug>CrossroadApp Debug Properties>Debug>App URL in Visual Studios.
 
